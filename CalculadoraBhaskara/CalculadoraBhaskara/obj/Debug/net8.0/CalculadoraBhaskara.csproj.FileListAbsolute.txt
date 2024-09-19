@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\bin\Debug\net8.0\CalculadoraBhaskara.deps.json
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\bin\Debug\net8.0\CalculadoraBhaskara.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\bin\Debug\net8.0\CalculadoraBhaskara.pdb
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.AssemblyInfo.cs
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\refint\CalculadoraBhaskara.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\CalculadoraBhaskara.pdb
+C:\Users\SENAI3EM\Documents\Projeto Maui\CalculadoraBhaskara\CalculadoraBhaskara\obj\Debug\net8.0\ref\CalculadoraBhaskara.dll

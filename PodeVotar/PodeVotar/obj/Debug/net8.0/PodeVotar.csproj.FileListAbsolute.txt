@@ -1,0 +1,12 @@
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\bin\Debug\net8.0\PodeVotar.deps.json
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\bin\Debug\net8.0\PodeVotar.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\bin\Debug\net8.0\PodeVotar.pdb
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.csproj.AssemblyReference.cache
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.AssemblyInfo.cs
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\refint\PodeVotar.dll
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\PodeVotar.pdb
+C:\Users\SENAI3EM\Documents\Projeto Maui\PodeVotar\PodeVotar\obj\Debug\net8.0\ref\PodeVotar.dll

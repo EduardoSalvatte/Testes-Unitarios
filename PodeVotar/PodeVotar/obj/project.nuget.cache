@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4H2Ru0EpB6hE6NB2fnGE3b3BO/rNR4FwZauHTZLTg8m9ylc9hzMogQl5MJO3gXdQ9etb/gk00XnyJ5806DM/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SENAI3EM\\Documents\\Projeto Maui\\PodeVotar\\PodeVotar\\PodeVotar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SENAI3EM\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\SENAI3EM\\.nuget\\packages\\xunit.extensibility.core\\2.9.0\\xunit.extensibility.core.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uoB46caSuNeBjwW9oRXgCTv1/BkaFb0qFtRaO6vWrtZ9LtcIr28C/eJGe/0mrvAoFT/dv5EtJyNedal+mfOVdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SENAI3EM\\Documents\\Projeto Maui\\CalculadoraGastosFunc\\CalculadoraGastosFunc\\CalculadoraGastosFunc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SENAI3EM\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\SENAI3EM\\.nuget\\packages\\xunit.extensibility.core\\2.9.0\\xunit.extensibility.core.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+﻿@model CalculadoraGastosFunc.Models.Funcionario
+
+<form asp-controller="Funcionario" asp-action="Calcular" method="post" style="display:flex">
+    <div>
+        <label style="margin-left:20px">Nome:</label>
+        <input asp-for="Nome" type="text"/>
+    </div>
+    <div>
+        <label style="margin-left:20px">Salário:</label>
+        <input asp-for="SalarioBase" type="number"/>
+    </div>
+    <div>
+        <label style="margin-left:20px">Desconto:</label>
+        <input asp-for="Desconto" type="number"/>
+    </div>
+    <div>
+        <label style="margin-left:20px">Benefício:</label>
+        <input asp-for="Beneficio" type="number"/>
+    </div>
+    <button type="submit" style="margin-left:20px; background-color: dodgerblue; border-color: transparent; color:white; font-weight: bold;">Calcular</button>
+</form>

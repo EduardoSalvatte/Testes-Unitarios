@@ -1,7 +1,0 @@
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.AssemblyInfoInputs.cache
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.AssemblyInfo.cs
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.csproj.CoreCompileInputs.cache
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.RazorAssemblyInfo.cache
-C:\Users\SENAI3EM\Documents\Projeto Maui\CalcularGastoFuncionario\CalcularGastoFuncionario\obj\Debug\net8.0\CalcularGastoFuncionario.RazorAssemblyInfo.cs
